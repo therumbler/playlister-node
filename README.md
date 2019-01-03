@@ -1,2 +1,0 @@
-# playlister-node
-Begin app
